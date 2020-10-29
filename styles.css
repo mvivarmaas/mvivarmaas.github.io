@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "my-font";
+  src: url(data:font/truetype;charset=utf-8;base64,T1R...gP5w/kP+RAA format("opentype");
+}
+
+
 body {
-background-color:powderblue
+  background-color:powderblue
+  font-family: "my-font";
 }
